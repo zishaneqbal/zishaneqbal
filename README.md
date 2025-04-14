@@ -52,15 +52,6 @@ I'm **Mohammad Zishan Eqbal**, a B.Tech Computer Science Engineering student at 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zishaneqbal&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zishaneqbal&layout=compact&theme=radical" width="48%"/>
-</p>
-
----
-
 ## 💬 Fun Fact
 
 > I treat bugs like puzzles — fix one, level up!
