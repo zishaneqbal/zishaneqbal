@@ -45,6 +45,9 @@ I'm **Mohammad Zishan Eqbal**, a B.Tech Computer Science Engineering student at 
   <a href="https://www.instagram.com/zishan._.eqbal" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=ZRiAFreol5mE&format=png&color=000000" width="30"/>
   </a>&nbsp;&nbsp;
+<a href="https://x.com/zishan_eqbal?t=VxIMPUQ2PsRIN0Z1wPhhbA&s=09">
+<img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30"/>
+  </a>&nbsp;&nbsp;
   <a href="mailto:zishaneqbal4668@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30"/>
   </a>
