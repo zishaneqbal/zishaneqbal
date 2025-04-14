@@ -40,7 +40,7 @@ I'm **Mohammad Zishan Eqbal**, a B.Tech Computer Science Engineering student at 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammad-zishan-eqbal-3243801a1" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>
+    <img src="https://img.icons8.com/?size=100&id=vWcULbkKy3DN&format=png&color=000000" width="30"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/zishan._.eqbal" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="30"/>
