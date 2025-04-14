@@ -38,7 +38,7 @@ I'm **Mohammad Zishan Eqbal**, a B.Tech Computer Science Engineering student at 
 
 ## 📬 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/mohammad-zishan-eqbal-3243801a1" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>
   </a>&nbsp;&nbsp;
