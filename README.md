@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I'm **Mohammad Zishan Eqbal**, a B.Tech Computer Science Engineering student at **Jamia Hamdard, New Delhi**. I’m passionate about solving problems, learning new technologies, and building cool stuff.
+I'm **Mohammad Zishan Eqbal**, B.Tech Computer Science Engineering student at **Jamia Hamdard, New Delhi**. I’m passionate about solving problems, learning new technologies, and building cool stuff.
 
 ---
 
@@ -32,7 +32,6 @@ I'm **Mohammad Zishan Eqbal**, a B.Tech Computer Science Engineering student at 
 ## 🔍 Currently Exploring
 - Backend Development
 - Competitive Programming
-- Open Source Contributions
 
 ---
 
@@ -48,7 +47,7 @@ I'm **Mohammad Zishan Eqbal**, a B.Tech Computer Science Engineering student at 
 <a href="https://x.com/zishan_eqbal?t=VxIMPUQ2PsRIN0Z1wPhhbA&s=09">
 <img src="https://img.icons8.com/?size=100&id=oaaSr6h7kwm6&format=png&color=000000" width="30"/>
   </a>&nbsp;&nbsp;
-  <a href="mailto:zishaneqbal4668@gmail.com">
+  <a href="mailto:mzishaneqbal@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30"/>
   </a>
 </p>
