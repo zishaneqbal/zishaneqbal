@@ -1,7 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20I'm%20Zishan!&fontSize=40&fontAlign=center&fontColor=ffffff)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zishaneqbal&style=flat-square&color=blue" alt="Profile views" />
   <img src="https://img.shields.io/badge/Tech-Enthusiast-blue" />
   <img src="https://img.shields.io/badge/Student-Jamia%20Hamdard-green" />
 </p>
